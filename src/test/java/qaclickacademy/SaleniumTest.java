@@ -15,4 +15,14 @@ public class SaleniumTest {
     	 System.out.println("ElementsUI");
 
      }
+     @Test
+ 	public void BrowseAutomation()
+ 	{
+     	 System.out.println("BrowserAutomation");
+ 	}
+     @Test
+ 	public void BrowserAutomaion()
+ 	{
+     	 System.out.println("BrowserAutomation");
+ 	}
 }
